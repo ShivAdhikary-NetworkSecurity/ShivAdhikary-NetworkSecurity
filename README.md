@@ -5,13 +5,11 @@ migrations, incident reduction, problem management and security governance.
 
 💼 Professional Experience & Technical Impact
 
-
 | Timeline | Company | Role | Core Platforms | Key Deliverables & Recognition |
 | :--- | :--- | :--- | :--- | :--- |
-| **2025 - Pres.** | **NTT DATA, Inc.** | Senior Network Engineer | Zscaler, Cisco, Fortinet | **Think Big, Be Bold:** Leadership Recognition for Python SDWAN workflow automation with risk & security controls. |
-| **2022 - 2024** | **2degrees** | Sr. Managed Network Engineer | Juniper, Fortinet, Cisco | **"Crazy about Customers" Award ($50):** Delivered high-tier Fortinet Security & Juniper provider edge core solutions for customers in a busy environment. |
-| **2020 - 2022** | **Spark New Zealand** | Network Security Engineer | Cisco, Fortinet | **Performance Award ($100):** Recognized for in-depth Problem Management & troubleshooting to reduce CPU based alerts for various customers. |
-| **2019 - 2020** | **Transdev Auckland** | Network Security Engineer | Cisco Umbrella, Hyper-V | **Key Project:** Deployed redundant Cisco Umbrella Virtual
-Appliance on Hyper-V with internal/external DNS forwarding. |
-| **2018 - 2019** | **Network 4 Learning (Contract)** | Network Security Engineer | Cisco → Fortinet | **Migration Engineer:** Orchestrated network security migrations for **500+ NZ schools** with risk mitigation plan for cutovers. |
-| **2016 - 2018** | **Mitre 10 Support Centre (NZ)** | IT Network Systems Technician | Cisco |  **Top Performer:** Averaged **4.5/5** in monthly performance reports; received numerous commendations. |
+| **2025 – Present** | **NTT DATA, Inc.** | **Network Security Engineer** | Zscaler, Cisco, Fortinet, Python | Designed and automated Python-based software-defined wide area network workflows with embedded security and risk controls, improving governance and reducing manual change effort. Recognised with the **Think Big, Be Bold** award. |
+| **2022 – 2024** | **2degrees** | **Network Security Engineer** | Juniper, Fortinet, Cisco | Delivered high-availability Fortinet security and Juniper provider-edge network solutions for enterprise customers in a fast-paced managed services environment. Awarded **Crazy About Customers**. |
+| **2020 – 2022** | **Spark New Zealand** | **Network Security Engineer (Network Operations Centre)** | Cisco, Fortinet | Supported enterprise network and security operations within a 24 by 7 operations centre. Led problem management and performance optimisation, reducing recurring processor utilisation alerts. Recognised with a **Performance Award**. |
+| **2019 – 2020** | **Transdev Auckland** | **Network Security Engineer** | Cisco Umbrella, Hyper-V | Designed and deployed a resilient domain name system security architecture using redundant Cisco Umbrella virtual appliances, improving availability and security. |
+| **2018 – 2019** | **Network for Learning (Contract)** | **Network Security Engineer** | Cisco, Fortinet | Delivered large-scale network security migrations for more than **500 New Zealand schools**, leading firewall platform transitions with structured cutover planning and risk mitigation. |
+| **2016 – 2018** | **Mitre 10 Support Centre (New Zealand)** | **Network Security Engineer (Service Desk)** | Cisco | Provided network-focused service desk support for enterprise retail environments. Consistently rated **Top Performer (4.5 out of 5)** with multiple commendations. |
