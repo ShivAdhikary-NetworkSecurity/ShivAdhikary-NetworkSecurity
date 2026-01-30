@@ -1,5 +1,5 @@
 Senior Network Security Engineer with 15+ years of overall experience delivering secure, scalable
-enterprise and service-provider network security solutions across New Zealane, India & Europe. Specialist in SD-WAN, SASE,
+enterprise and service-provider network security solutions across New Zealand, India & Europe. Specialist in SD-WAN, SASE,
 Zero Trust, and Python-based network automation with proven impact in large-scale
 migrations, incident reduction, problem management and security governance.
 
